@@ -1,0 +1,56 @@
+.navbar{
+    display:flex-right;
+    align-items: right;
+    justify-content: space-between;
+    padding: -100px;
+    background-color: hsla(190, 6%, 80%, 0.656);
+    
+  
+    
+  }
+  .h1{
+    display: flex;
+  }
+  .nav{
+    display:flex;
+    justify-content: space-around;
+    width: 40%;
+    margin-left: 500px;
+  }
+  .h{
+    display:flex-left;
+    align-items: left;
+  }
+  .com{
+    display: flex;
+   font-style:oblique;
+    align-items: right;
+    margin-bottom: 40px;
+  }
+  .HOME{
+    color: black;
+    margin-bottom: 30PX;
+  }
+  .ABOUT
+  {
+    color: black;
+    margin-bottom: 30PX;
+  }
+  .PROPERTY{
+    color: black;
+    margin-bottom: 30PX;
+  }
+  .LOGIN{
+    color: black;
+    margin-bottom: 30PX;
+  }
+  .n{
+    background-image: url('https://img.freepik.com/free-vector/silhouette-skyline-illustration_53876-78786.jpg?w=900&t=st=1689188997~exp=1689189597~hmac=68e0b18d7a4cd587d16abb997ecfcc51fe03ee6f5ae34c690d56e0201412a0c2');
+  }
+
+
+
+ 
+  
+
+  
