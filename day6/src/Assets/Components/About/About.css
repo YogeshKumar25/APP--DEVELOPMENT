@@ -1,0 +1,195 @@
+.about-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+ .AC {
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+    
+  }
+  
+  h2 {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 20px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    color:black
+  
+  }
+  
+  ul {
+    list-style-type: disc;
+    margin-bottom: 20px;
+    padding-left: 20px;
+  }
+  
+  li {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  
+  .feature-list li {
+    margin-bottom: 20px;
+  }
+  
+  .reasons-list li {
+    margin-bottom: 10px;
+  }
+  .pa{
+    display: flex;
+    background-color:azure;
+  }
+  .ikm{
+    /* border-radius: 50px; */
+    opacity: 6;
+    animation: fade-in 1s ease-in-out forwards;
+    flex-basis: 40%;
+    position: relative;
+    width: 40vw;
+    height:50vh;
+    /* width: 100%;
+    max-width: 400px;
+    display: block;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease-in-out;
+    transform: scale(1.1); */
+  }
+
+  @keyframes fade-in {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+ .about-body{
+    background-image: url('https://img.freepik.com/free-photo/abstract-luxury-blur-dark-grey-black-gradient-used-as-background-studio-wall-display-your-products-plain-studio-background_1258-54456.jpg?size=626&ext=jpg&ga=GA1.2.1428761677.1689065684&semt=ais');
+  }
+
+
+
+  .about-section {
+    padding: 80px 0;
+  }
+  
+  .cntainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 150px;
+  }
+  
+  .about-content {
+    flex-basis: 50%;
+  }
+  
+  .about-content h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .about-content p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  .image-container {
+    flex-basis: 40%;
+    position: relative;
+  }
+  
+  .about-image {
+    width: 100%;
+    max-width: 400px;
+    display: block;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .about-image:hover {
+    transform: scale(1.1);
+  }
+
+  .om{
+    text-align: center;
+    font-size: 40px;
+  }
+  .ca{
+    display: flex;
+  }
+  .co{
+    margin-left: 20px;
+  }
+ .ci{
+  margin-left: 20px;
+ }
+
+ .cd{
+  margin-left: 20px;
+ }
+
+ .highlight-text{
+  font-size: 30px;
+    font-weight: bold;
+    color: #333333;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #ff9900, #ffcc00);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+ }
+ .w{
+  display: flex;
+ }
+
+ .ponnu{
+  background-position: 50px;
+ }
+
+ .foo{
+  align-items: center
+  
+ }
+ .cont{
+  text-align: center;
+ }
+ .ta{
+  text-align: center;
+ 
+ }
+.m{
+  /* display: flex; */
+  align-items: center;
+  margin-left: 42em;
+}
+
+.line{
+  margin-right: 60px;
+  font-size: 20px;
+}
+
+  
+
+  
