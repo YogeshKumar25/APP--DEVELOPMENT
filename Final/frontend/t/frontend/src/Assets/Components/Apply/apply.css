@@ -1,0 +1,66 @@
+/* For small devices */
+/* body{
+    background: #bdc3c7;  /* fallback for old browsers */
+    /* background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  Chrome 10-25, Safari 5.1-6 */
+    /* background: linear-gradient(to right, #2c3e50, #bdc3c7); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+
+/* } */ 
+
+.frm{
+    background-color: white;
+    border-radius: 5px;
+    width: 550px;
+    margin: 20px auto;
+    padding: 20px;
+    /* height: 600px; */
+}
+
+#firstName,
+#lastName,
+#emmail,
+#mobi
+{
+    border: 2px solid blueviolet;
+height: 35px;
+width: 60%;
+background-color: white;
+animation: slideIn 1s ease-in-out;
+
+
+}  
+#file{
+    border: 2px solid blueviolet;
+    height: 50px;
+    width: 60%;
+    background-color: white;
+    animation: slideIn 1s ease-in-out;
+
+}
+
+
+
+
+.fr-m-body{
+    text-align: left;
+    padding: 20px 10px;
+}
+
+.fr-m-body > *{
+    padding: 5px;
+}
+
+.frm__label{
+    width: 40%;
+}
+
+.frm_input{
+    width: 60%;
+}
+
+.footer{
+    text-align: center;
+}
+.red{
+    font-size: 20px;
+    text-align: left;
+}
+  
